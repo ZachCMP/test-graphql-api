@@ -1,0 +1,7 @@
+{
+  "ignore": ["db.json"],
+  "watch": [
+    "schema.graphql",
+    "**/*.js"
+  ]
+}
